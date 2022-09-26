@@ -1,16 +1,28 @@
 {
-  "posts":[
+  "signupUsers": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "name": "elene",
+      "login": "elene",
+      "password": "elene1",
+      "id": 1
+    },
+    {
+      "name": "qwe",
+      "login": "qwer",
+      "password": "qwerty",
+      "id": 2
+    },
+    {
+      "name": "elene",
+      "login": "elene",
+      "password": "eleneelene",
+      "id": 3
     }
   ],
-  "comments" : [
+  "Tasks": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "item": "Learning Angular",
+      "description": "I learn angular on rs school"
     }
   ]
 }
